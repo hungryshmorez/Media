@@ -38,6 +38,7 @@ const ALBUMS = {
   'music/shmorez/damn-shmorez-whered-you-find-this': "Damn Shmorez Where'd You Find This",
   'music/shmorez/thuggish-ruggish-shmorez': 'Thuggish Ruggish Shmorez',
   'music/driftwave/booting-dreamOS-bardo-factory-reset': 'Booting.dreamOS bardo // factory_reset',
+  'music/driftwave/midnight-vapor-circuit': 'Midnight Vapor Circuit',
 };
 
 // play order: these artist folders in this order, root tracks first
