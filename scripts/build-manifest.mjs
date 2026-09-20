@@ -37,6 +37,7 @@ const ALBUMS = {
   'music/shmorez/shmorez-is-hungry': 'Shmorez is Hungry',
   'music/shmorez/damn-shmorez-whered-you-find-this': "Damn Shmorez Where'd You Find This",
   'music/shmorez/thuggish-ruggish-shmorez': 'Thuggish Ruggish Shmorez',
+  'music/driftwave/booting-dreamOS-bardo-factory-reset': 'Booting.dreamOS bardo // factory_reset',
 };
 
 // play order: these artist folders in this order, root tracks first
