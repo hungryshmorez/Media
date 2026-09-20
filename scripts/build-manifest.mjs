@@ -33,6 +33,7 @@ const ALBUMS = {
   'music/tanky/for-momma': 'For Momma',
   'music/tanky/the-ballad-of-kanye-twitty': 'The Ballad of Kanye Twitty',
   'music/tanky/friday-nights-and-neon-lights': 'Friday Nights and Neon Lights',
+  'music/tanky/homer-simpson-last-call-lullabies': 'Homer Simpson - Last Call Lullabies',
   'music/shmorez/shmorez-is-hungry': 'Shmorez is Hungry',
   'music/shmorez/damn-shmorez-whered-you-find-this': "Damn Shmorez Where'd You Find This",
   'music/shmorez/thuggish-ruggish-shmorez': 'Thuggish Ruggish Shmorez',
