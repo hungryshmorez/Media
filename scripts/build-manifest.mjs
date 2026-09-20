@@ -32,6 +32,7 @@ const ARTISTS = {
 const ALBUMS = {
   'music/tanky/for-momma': 'For Momma',
   'music/tanky/the-ballad-of-kanye-twitty': 'The Ballad of Kanye Twitty',
+  'music/tanky/friday-nights-and-neon-lights': 'Friday Nights and Neon Lights',
 };
 
 // play order: these artist folders in this order, root tracks first
