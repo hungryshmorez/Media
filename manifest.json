@@ -104,6 +104,22 @@
     {
       "src": "music/static-drift-anthem.mp3",
       "title": "Static Drift Anthem"
+    },
+    {
+      "src": "music/shmorez/funky-on-the-trunk.mp3",
+      "title": "Shmorez — Funky on the Trunk"
+    },
+    {
+      "src": "music/shmorez/memphis-be-callin.mp3",
+      "title": "Shmorez — Memphis Be Callin’"
+    },
+    {
+      "src": "music/shmorez/crunchy-delight.mp3",
+      "title": "Shmorez — Crunchy Delight"
+    },
+    {
+      "src": "music/shmorez/screaming-into-the-void.mp3",
+      "title": "Shmorez — Screaming Into the Void (the SHMOREZ musical)"
     }
   ],
   "covers": [
