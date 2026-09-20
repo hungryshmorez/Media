@@ -769,8 +769,8 @@
       "album": "Booting.dreamOS bardo // factory_reset"
     },
     {
-      "src": "music/driftwave/midnight-vapor-circuit/01 S a v e Y o u r T e a r s .mp3",
-      "title": "DriftWave Static — S a v e Y o u r T e a r s",
+      "src": "music/driftwave/midnight-vapor-circuit/01 Save Your Tears.mp3",
+      "title": "DriftWave Static — Save Your Tears",
       "album": "Midnight Vapor Circuit"
     },
     {
@@ -779,13 +779,13 @@
       "album": "Midnight Vapor Circuit"
     },
     {
-      "src": "music/driftwave/midnight-vapor-circuit/03 B1.mp3",
-      "title": "DriftWave Static — B1",
+      "src": "music/driftwave/midnight-vapor-circuit/03_placeholder_B1.mp3",
+      "title": "DriftWave Static — placeholder B1",
       "album": "Midnight Vapor Circuit"
     },
     {
-      "src": "music/driftwave/midnight-vapor-circuit/04 B3.mp3",
-      "title": "DriftWave Static — B3",
+      "src": "music/driftwave/midnight-vapor-circuit/04_placeholder_B3.mp3",
+      "title": "DriftWave Static — placeholder B3",
       "album": "Midnight Vapor Circuit"
     },
     {
@@ -794,8 +794,8 @@
       "album": "Midnight Vapor Circuit"
     },
     {
-      "src": "music/driftwave/midnight-vapor-circuit/06 1. -.mp3",
-      "title": "DriftWave Static — 1.",
+      "src": "music/driftwave/midnight-vapor-circuit/06_corrupted.mp3",
+      "title": "DriftWave Static — corrupted",
       "album": "Midnight Vapor Circuit"
     },
     {
@@ -849,8 +849,8 @@
       "album": "Midnight Vapor Circuit"
     },
     {
-      "src": "music/driftwave/midnight-vapor-circuit/17 B4.mp3",
-      "title": "DriftWave Static — B4",
+      "src": "music/driftwave/midnight-vapor-circuit/17_placeholder_B4.mp3",
+      "title": "DriftWave Static — placeholder B4",
       "album": "Midnight Vapor Circuit"
     },
     {
@@ -864,8 +864,8 @@
       "album": "Midnight Vapor Circuit"
     },
     {
-      "src": "music/driftwave/midnight-vapor-circuit/20 B2.mp3",
-      "title": "DriftWave Static — B2",
+      "src": "music/driftwave/midnight-vapor-circuit/20_placeholder_B2.mp3",
+      "title": "DriftWave Static — placeholder B2",
       "album": "Midnight Vapor Circuit"
     },
     {
@@ -877,6 +877,101 @@
       "src": "music/driftwave/midnight-vapor-circuit/22 Simulated Emotions.mp3",
       "title": "DriftWave Static — Simulated Emotions",
       "album": "Midnight Vapor Circuit"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/01.mp3",
+      "title": "DriftWave Static — 01",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/02.mp3",
+      "title": "DriftWave Static — 02",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/03.mp3",
+      "title": "DriftWave Static — 03",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/04.mp3",
+      "title": "DriftWave Static — 04",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/05.mp3",
+      "title": "DriftWave Static — 05",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/06.mp3",
+      "title": "DriftWave Static — 06",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/07.mp3",
+      "title": "DriftWave Static — 07",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/08.mp3",
+      "title": "DriftWave Static — 08",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/09.mp3",
+      "title": "DriftWave Static — 09",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/10.mp3",
+      "title": "DriftWave Static — 10",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/11.mp3",
+      "title": "DriftWave Static — 11",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/12.mp3",
+      "title": "DriftWave Static — 12",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/13.mp3",
+      "title": "DriftWave Static — 13",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/14.mp3",
+      "title": "DriftWave Static — 14",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/15.mp3",
+      "title": "DriftWave Static — 15",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/16.mp3",
+      "title": "DriftWave Static — 16",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/17.mp3",
+      "title": "DriftWave Static — 17",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/18.mp3",
+      "title": "DriftWave Static — 18",
+      "album": "Slushwave Type Beat Tape"
+    },
+    {
+      "src": "music/driftwave/slushwave-type-beat-tape/19.mp3",
+      "title": "DriftWave Static — 19",
+      "album": "Slushwave Type Beat Tape"
     }
   ],
   "covers": [

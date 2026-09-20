@@ -39,6 +39,7 @@ const ALBUMS = {
   'music/shmorez/thuggish-ruggish-shmorez': 'Thuggish Ruggish Shmorez',
   'music/driftwave/booting-dreamOS-bardo-factory-reset': 'Booting.dreamOS bardo // factory_reset',
   'music/driftwave/midnight-vapor-circuit': 'Midnight Vapor Circuit',
+  'music/driftwave/slushwave-type-beat-tape': 'Slushwave Type Beat Tape',
 };
 
 // play order: these artist folders in this order, root tracks first
