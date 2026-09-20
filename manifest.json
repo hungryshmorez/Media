@@ -66,6 +66,10 @@
       "title": "彼方 (kanata)"
     },
     {
+      "src": "music/static-drift-anthem.mp3",
+      "title": "Static Drift Anthem"
+    },
+    {
       "src": "music/tanky/cowboys-dont-cry.mp3",
       "title": "Tanky Johnson — Cowboys Don’t Cry"
     },
@@ -98,14 +102,6 @@
       "title": "Shmorez — Shhh, Don’t Wake Her Up"
     },
     {
-      "src": "music/driftwave/still-buffering.wav",
-      "title": "DriftWave Static — Still Buffering"
-    },
-    {
-      "src": "music/static-drift-anthem.mp3",
-      "title": "Static Drift Anthem"
-    },
-    {
       "src": "music/shmorez/funky-on-the-trunk.mp3",
       "title": "Shmorez — Funky on the Trunk"
     },
@@ -120,6 +116,66 @@
     {
       "src": "music/shmorez/screaming-into-the-void.mp3",
       "title": "Shmorez — Screaming Into the Void (the SHMOREZ musical)"
+    },
+    {
+      "src": "music/shmorez/Acid Dream Vengeance.mp3",
+      "title": "Shmorez — Acid Dream Vengeance"
+    },
+    {
+      "src": "music/shmorez/Back nectar.mp3",
+      "title": "Shmorez — Back nectar"
+    },
+    {
+      "src": "music/shmorez/First-Crack Inventory.mp3",
+      "title": "Shmorez — First Crack Inventory"
+    },
+    {
+      "src": "music/shmorez/Golden Noise Start.mp3",
+      "title": "Shmorez — Golden Noise Start"
+    },
+    {
+      "src": "music/shmorez/Golden Silence End.mp3",
+      "title": "Shmorez — Golden Silence End"
+    },
+    {
+      "src": "music/shmorez/Google how to cry 2026.mp3",
+      "title": "Shmorez — Google how to cry 2026"
+    },
+    {
+      "src": "music/shmorez/Helter Skelter 2026.mp3",
+      "title": "Shmorez — Helter Skelter 2026"
+    },
+    {
+      "src": "music/shmorez/Inventory Starting.mp3",
+      "title": "Shmorez — Inventory Starting"
+    },
+    {
+      "src": "music/shmorez/Jump 2026.mp3",
+      "title": "Shmorez — Jump 2026"
+    },
+    {
+      "src": "music/shmorez/knock knock 2026.mp3",
+      "title": "Shmorez — knock knock 2026"
+    },
+    {
+      "src": "music/shmorez/Never gave a fuck 2026.mp3",
+      "title": "Shmorez — Never gave a fuck 2026"
+    },
+    {
+      "src": "music/shmorez/Research chemicals.mp3",
+      "title": "Shmorez — Research chemicals"
+    },
+    {
+      "src": "music/shmorez/The Sky Stays Loud.mp3",
+      "title": "Shmorez — The Sky Stays Loud"
+    },
+    {
+      "src": "music/shmorez/When Your Connection Goes.mp3",
+      "title": "Shmorez — When Your Connection Goes"
+    },
+    {
+      "src": "music/driftwave/still-buffering.wav",
+      "title": "DriftWave Static — Still Buffering"
     }
   ],
   "covers": [

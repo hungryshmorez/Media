@@ -8,20 +8,39 @@ runtime, so **adding music needs no site rebuild and no code change.**
 
 ## Adding a song
 
-1. Drop the file in `music/` (or `music/tanky/`, `music/shmorez/`, etc.).
-   Use a lowercase-with-dashes filename — no spaces, brackets or accents, since
-   these become URLs.
-2. Add an entry to `manifest.json`, in the order you want it played:
+**Drop the file in `music/` (or `music/tanky/`, `music/shmorez/`, …) and that's
+it.** Upload through the GitHub web UI if you like — no command line needed.
 
-   ```json
-   { "src": "music/your-new-song.mp3", "title": "Artist — Song Name" }
-   ```
+A workflow regenerates `manifest.json` on every push that touches `music/`, so
+the track is in the playlist about a minute later. Nothing in the Site repo has
+to change and nothing has to be rebuilt.
 
-3. Commit and push. GitHub Pages republishes in about a minute and the site
-   picks it up on the next load. Nothing in the Site repo has to change.
+Name the file whatever you want. Spaces, capitals and apostrophes are fine —
+the site percent-encodes each path segment. Don't rename a file after it's
+published, though: the URL is public and renaming breaks any existing link.
 
-`title` is what the jukebox screen shows. The house style is
-`Artist — Track`, or just the track name when the artist is obvious.
+### Track titles
+
+By default the title is the filename (minus the extension, dashes and
+underscores turned into spaces) with the folder's artist in front, so
+`music/shmorez/Jump 2026.mp3` becomes **Shmorez — Jump 2026**.
+
+To override it, add an entry to `titles.json`:
+
+```json
+{ "music/shmorez/Jump 2026.mp3": "Shmorez — JUMP! (2026 mix)" }
+```
+
+Entries in `titles.json` also fix the play order — they run first, in the order
+listed. Anything not listed is appended alphabetically within its folder, so a
+new upload lands at the end of its section instead of reshuffling the tape.
+
+### Doing it by hand
+
+```bash
+node scripts/build-manifest.mjs           # rewrite manifest.json
+node scripts/build-manifest.mjs --check   # fail if stale (what CI runs)
+```
 
 ## Album art
 
@@ -31,12 +50,15 @@ add the image to `music/art/` and add its path to the array.
 ## Layout
 
 ```
-manifest.json        the playlist — the only file the site actually reads
+manifest.json        the playlist the site reads — GENERATED, don't hand-edit
+titles.json          title overrides + play order for curated tracks
+scripts/             the manifest generator
 music/               the slushwave tape
 music/art/           album art and backdrops
 music/tanky/         Tanky Johnson
 music/shmorez/       Shmorez
 music/driftwave/     DriftWave Static
+video/               the billboard clip
 ```
 
 ## Notes

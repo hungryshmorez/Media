@@ -1,0 +1,45 @@
+name: Rebuild manifest
+
+# The site reads manifest.json, so a track that isn't listed there doesn't play.
+# Uploading through the GitHub web UI can't update it, which meant files landed
+# in the repo and silently never appeared. This regenerates it on every push
+# that touches the music folder and commits the result.
+
+on:
+  push:
+    paths:
+      - 'music/**'
+      - 'titles.json'
+      - 'scripts/build-manifest.mjs'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: manifest-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/build-manifest.mjs
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- manifest.json; then
+            echo "manifest.json already up to date"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json
+          # [skip ci] isn't needed — this workflow only triggers on music/**,
+          # titles.json and the script, so committing manifest.json alone can't
+          # retrigger it.
+          git commit -m "Rebuild manifest.json ($(node -p "require('./manifest.json').tracks.length") tracks)"
+          git push
