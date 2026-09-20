@@ -70,14 +70,6 @@
       "title": "Static Drift Anthem"
     },
     {
-      "src": "music/tanky/whiskey-revival.mp3",
-      "title": "Tanky Johnson — Whiskey Revival"
-    },
-    {
-      "src": "music/tanky/one-for-the-team.mp3",
-      "title": "Tanky Johnson — One for the Team"
-    },
-    {
       "src": "music/tanky/for-momma/01 Long Way Home.mp3",
       "title": "Tanky Johnson — Long Way Home",
       "album": "For Momma"
@@ -180,6 +172,41 @@
     {
       "src": "music/tanky/friday-nights-and-neon-lights/09 Drunkin' Stumbling Rumbling.mp3",
       "title": "Tanky Johnson — Drunkin’ Stumbling Rumbling",
+      "album": "Friday Nights and Neon Lights"
+    },
+    {
+      "src": "music/tanky/friday-nights-and-neon-lights/10 Two Stepping into Trouble Again.mp3",
+      "title": "Tanky Johnson — Two Stepping into Trouble Again",
+      "album": "Friday Nights and Neon Lights"
+    },
+    {
+      "src": "music/tanky/friday-nights-and-neon-lights/11 Waffle House Showdown.mp3",
+      "title": "Tanky Johnson — Waffle House Showdown",
+      "album": "Friday Nights and Neon Lights"
+    },
+    {
+      "src": "music/tanky/friday-nights-and-neon-lights/12 One for the Team.mp3",
+      "title": "Tanky Johnson — One for the Team",
+      "album": "Friday Nights and Neon Lights"
+    },
+    {
+      "src": "music/tanky/friday-nights-and-neon-lights/13 Smoke 'Em If You Got 'Em.mp3",
+      "title": "Tanky Johnson — Smoke ’Em If You Got ’Em",
+      "album": "Friday Nights and Neon Lights"
+    },
+    {
+      "src": "music/tanky/friday-nights-and-neon-lights/14 The Last Bud Light at the Party.mp3",
+      "title": "Tanky Johnson — The Last Bud Light at the Party",
+      "album": "Friday Nights and Neon Lights"
+    },
+    {
+      "src": "music/tanky/friday-nights-and-neon-lights/15 Whiskey Soaked Bible.mp3",
+      "title": "Tanky Johnson — Whiskey Soaked Bible",
+      "album": "Friday Nights and Neon Lights"
+    },
+    {
+      "src": "music/tanky/friday-nights-and-neon-lights/16 Whiskey Revival.mp3",
+      "title": "Tanky Johnson — Whiskey Revival",
       "album": "Friday Nights and Neon Lights"
     },
     {
