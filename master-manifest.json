@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "artists": [
+    {
+      "name": "Sofa King Sad Boi",
+      "repo": "Media-SofaKing",
+      "cdnUrl": "https://hungryshmorez.github.io/Media-SofaKing/",
+      "manifestUrl": "https://hungryshmorez.github.io/Media-SofaKing/manifest.json",
+      "enabled": true
+    },
+    {
+      "name": "Tanky Johnson",
+      "repo": "Media-TankyJohnson",
+      "cdnUrl": "https://hungryshmorez.github.io/Media-TankyJohnson/",
+      "manifestUrl": "https://hungryshmorez.github.io/Media-TankyJohnson/manifest.json",
+      "enabled": false
+    },
+    {
+      "name": "Shmorez",
+      "repo": "Media-Shmorez",
+      "cdnUrl": "https://hungryshmorez.github.io/Media-Shmorez/",
+      "manifestUrl": "https://hungryshmorez.github.io/Media-Shmorez/manifest.json",
+      "enabled": false
+    },
+    {
+      "name": "DriftWave STATIC",
+      "repo": "Media-DriftWave",
+      "cdnUrl": "https://hungryshmorez.github.io/Media-DriftWave/",
+      "manifestUrl": "https://hungryshmorez.github.io/Media-DriftWave/manifest.json",
+      "enabled": false
+    }
+  ],
+  "fallbackCdn": "https://hungryshmorez.github.io/Media/",
+  "description": "Master manifest for multi-repo music distribution"
+}
