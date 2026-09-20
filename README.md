@@ -19,6 +19,24 @@ Name the file whatever you want. Spaces, capitals and apostrophes are fine —
 the site percent-encodes each path segment. Don't rename a file after it's
 published, though: the URL is public and renaming breaks any existing link.
 
+### Albums
+
+A folder one level inside an artist folder is an album:
+
+```
+music/tanky/for-momma/01 Long Way Home.mp3
+music/tanky/for-momma/02 Bottled Up Regrets.mp3
+```
+
+Prefix the files `01 `, `02 ` … and they play in that order — album tracks sort
+by filename and ignore the `titles.json` ordering, so the running order is
+whatever the numbers say. The album name is taken from the folder (dashes
+become spaces); add it to `ALBUMS` in `scripts/build-manifest.mjs` for exact
+capitalisation like *The Ballad of Kanye Twitty*.
+
+Loose singles can stay directly in the artist folder; they play before the
+albums.
+
 ### Track titles
 
 By default the title is the filename (minus the extension, dashes and

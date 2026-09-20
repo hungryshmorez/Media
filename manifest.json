@@ -70,24 +70,97 @@
       "title": "Static Drift Anthem"
     },
     {
-      "src": "music/tanky/cowboys-dont-cry.mp3",
-      "title": "Tanky Johnson — Cowboys Don’t Cry"
-    },
-    {
       "src": "music/tanky/whiskey-revival.mp3",
       "title": "Tanky Johnson — Whiskey Revival"
-    },
-    {
-      "src": "music/tanky/amphetamines-and-barroom-dreams.mp3",
-      "title": "Tanky Johnson — Amphetamines and Barroom Dreams"
     },
     {
       "src": "music/tanky/one-for-the-team.mp3",
       "title": "Tanky Johnson — One for the Team"
     },
     {
-      "src": "music/tanky/bottled-up-regrets.mp3",
-      "title": "Tanky Johnson — Bottled Up Regrets"
+      "src": "music/tanky/for-momma/01 Long Way Home.mp3",
+      "title": "Tanky Johnson — Long Way Home",
+      "album": "For Momma"
+    },
+    {
+      "src": "music/tanky/for-momma/02 Bottled Up Regrets.mp3",
+      "title": "Tanky Johnson — Bottled Up Regrets",
+      "album": "For Momma"
+    },
+    {
+      "src": "music/tanky/for-momma/03 Backroad Confessions.mp3",
+      "title": "Tanky Johnson — Backroad Confessions",
+      "album": "For Momma"
+    },
+    {
+      "src": "music/tanky/for-momma/04 Gone Country.mp3",
+      "title": "Tanky Johnson — Gone Country",
+      "album": "For Momma"
+    },
+    {
+      "src": "music/tanky/for-momma/05 Mudhole Stomping.mp3",
+      "title": "Tanky Johnson — Mudhole Stomping",
+      "album": "For Momma"
+    },
+    {
+      "src": "music/tanky/for-momma/06 Livin' by the Bottle, Dying by the Drop.mp3",
+      "title": "Tanky Johnson — Livin’ by the Bottle, Dying by the Drop",
+      "album": "For Momma"
+    },
+    {
+      "src": "music/tanky/for-momma/07 Whiskey the Preacher, the Bottles the Choir.mp3",
+      "title": "Tanky Johnson — Whiskey the Preacher, the Bottles the Choir",
+      "album": "For Momma"
+    },
+    {
+      "src": "music/tanky/for-momma/08 One More Round.mp3",
+      "title": "Tanky Johnson — One More Round",
+      "album": "For Momma"
+    },
+    {
+      "src": "music/tanky/for-momma/09 Back Road Bangin'.mp3",
+      "title": "Tanky Johnson — Back Road Bangin’",
+      "album": "For Momma"
+    },
+    {
+      "src": "music/tanky/for-momma/10 When the Bottle Runs Dry.mp3",
+      "title": "Tanky Johnson — When the Bottle Runs Dry",
+      "album": "For Momma"
+    },
+    {
+      "src": "music/tanky/for-momma/11 Cowboys Don't Cry.mp3",
+      "title": "Tanky Johnson — Cowboys Don’t Cry",
+      "album": "For Momma"
+    },
+    {
+      "src": "music/tanky/for-momma/12 Raise Hell Till Sunrise.mp3",
+      "title": "Tanky Johnson — Raise Hell Till Sunrise",
+      "album": "For Momma"
+    },
+    {
+      "src": "music/tanky/the-ballad-of-kanye-twitty/01 Amphetamines and Barroom Dreams.mp3",
+      "title": "Tanky Johnson — Amphetamines and Barroom Dreams",
+      "album": "The Ballad of Kanye Twitty"
+    },
+    {
+      "src": "music/tanky/the-ballad-of-kanye-twitty/02 Country Cocaine Blues.mp3",
+      "title": "Tanky Johnson — Country Cocaine Blues",
+      "album": "The Ballad of Kanye Twitty"
+    },
+    {
+      "src": "music/tanky/the-ballad-of-kanye-twitty/03 Dirt Roads and Daisy Dukes.mp3",
+      "title": "Tanky Johnson — Dirt Roads and Daisy Dukes",
+      "album": "The Ballad of Kanye Twitty"
+    },
+    {
+      "src": "music/tanky/the-ballad-of-kanye-twitty/04 Drowning Sorrows, Burning Bridges.mp3",
+      "title": "Tanky Johnson — Drowning Sorrows, Burning Bridges",
+      "album": "The Ballad of Kanye Twitty"
+    },
+    {
+      "src": "music/tanky/the-ballad-of-kanye-twitty/05 Haulin' Ass.mp3",
+      "title": "Tanky Johnson — Haulin’ Ass",
+      "album": "The Ballad of Kanye Twitty"
     },
     {
       "src": "music/shmorez/snap-on-the-beat.mp3",
@@ -130,40 +203,136 @@
       "title": "Shmorez — Country SHMOREZ Can Survive"
     },
     {
-      "src": "music/shmorez/Acid Dream Vengeance.mp3",
-      "title": "Shmorez — Acid Dream Vengeance"
+      "src": "music/shmorez/Back nectar.mp3",
+      "title": "Shmorez — Back Nectar"
     },
     {
-      "src": "music/shmorez/Back nectar.mp3",
-      "title": "Shmorez — Back nectar"
+      "src": "music/shmorez/Breaksset1.mp3",
+      "title": "Shmorez — Breaksset 1"
+    },
+    {
+      "src": "music/shmorez/charred to perfection.mp3",
+      "title": "Shmorez — Charred to Perfection"
+    },
+    {
+      "src": "music/shmorez/Choclate rain.mp3",
+      "title": "Shmorez — Choclate Rain"
+    },
+    {
+      "src": "music/shmorez/Feast of fire.mp3",
+      "title": "Shmorez — Feast of Fire"
+    },
+    {
+      "src": "music/shmorez/First-Crack Inventory.mp3",
+      "title": "Shmorez — First-Crack Inventory"
+    },
+    {
+      "src": "music/shmorez/Google how to cry 2026.mp3",
+      "title": "Shmorez — Google How to Cry 2026"
+    },
+    {
+      "src": "music/shmorez/knock knock 2026.mp3",
+      "title": "Shmorez — Knock Knock 2026"
+    },
+    {
+      "src": "music/shmorez/knock turn em.mp3",
+      "title": "Shmorez — Knock Turn ’Em"
+    },
+    {
+      "src": "music/shmorez/mine all mine.mp3",
+      "title": "Shmorez — Mine All Mine"
+    },
+    {
+      "src": "music/shmorez/Never gave a fuck 2026.mp3",
+      "title": "Shmorez — Never Gave a Fuck 2026"
+    },
+    {
+      "src": "music/shmorez/not a a drill.mp3",
+      "title": "Shmorez — Not a Drill"
+    },
+    {
+      "src": "music/shmorez/now nutta.mp3",
+      "title": "Shmorez — Now Nutta"
+    },
+    {
+      "src": "music/shmorez/ok I see you.mp3",
+      "title": "Shmorez — OK I See You"
+    },
+    {
+      "src": "music/shmorez/pep In ya step.mp3",
+      "title": "Shmorez — Pep in Ya Step"
+    },
+    {
+      "src": "music/shmorez/play game.mp3",
+      "title": "Shmorez — Play Game"
+    },
+    {
+      "src": "music/shmorez/pretty boy.mp3",
+      "title": "Shmorez — Pretty Boy"
+    },
+    {
+      "src": "music/shmorez/Research chemicals.mp3",
+      "title": "Shmorez — Research Chemicals"
+    },
+    {
+      "src": "music/shmorez/Sampler platter.mp3",
+      "title": "Shmorez — Sampler Platter"
+    },
+    {
+      "src": "music/shmorez/sellin grams cracker.mp3",
+      "title": "Shmorez — Sellin’ Grams Cracker"
+    },
+    {
+      "src": "music/shmorez/Slasher chick anthem.mp3",
+      "title": "Shmorez — Slasher Chick Anthem"
+    },
+    {
+      "src": "music/shmorez/Some things last a long time.mp3",
+      "title": "Shmorez — Some Things Last a Long Time"
+    },
+    {
+      "src": "music/shmorez/Spider-man do you dance.mp3",
+      "title": "Shmorez — Spider-Man Do You Dance"
+    },
+    {
+      "src": "music/shmorez/stay sticky.mp3",
+      "title": "Shmorez — Stay Sticky"
+    },
+    {
+      "src": "music/shmorez/The Boneyard Bounce elegant but saucy.mp3",
+      "title": "Shmorez — The Boneyard Bounce (Elegant but Saucy)"
+    },
+    {
+      "src": "music/shmorez/too bad.mp3",
+      "title": "Shmorez — Too Bad"
+    },
+    {
+      "src": "music/shmorez/type beat.mp3",
+      "title": "Shmorez — Type Beat"
+    },
+    {
+      "src": "music/shmorez/um what.mp3",
+      "title": "Shmorez — Um What"
+    },
+    {
+      "src": "music/shmorez/wasted.mp3",
+      "title": "Shmorez — Wasted"
+    },
+    {
+      "src": "music/shmorez/way too far.mp3",
+      "title": "Shmorez — Way Too Far"
+    },
+    {
+      "src": "music/shmorez/Acid Dream Vengeance.mp3",
+      "title": "Shmorez — Acid Dream Vengeance"
     },
     {
       "src": "music/shmorez/Breaksset.mp3",
       "title": "Shmorez — Breaksset"
     },
     {
-      "src": "music/shmorez/Breaksset1.mp3",
-      "title": "Shmorez — Breaksset1"
-    },
-    {
-      "src": "music/shmorez/charred to perfection.mp3",
-      "title": "Shmorez — charred to perfection"
-    },
-    {
       "src": "music/shmorez/Check the BIOS.mp3",
       "title": "Shmorez — Check the BIOS"
-    },
-    {
-      "src": "music/shmorez/Choclate rain.mp3",
-      "title": "Shmorez — Choclate rain"
-    },
-    {
-      "src": "music/shmorez/Feast of fire.mp3",
-      "title": "Shmorez — Feast of fire"
-    },
-    {
-      "src": "music/shmorez/First-Crack Inventory.mp3",
-      "title": "Shmorez — First Crack Inventory"
     },
     {
       "src": "music/shmorez/Golden Noise Start.mp3",
@@ -172,10 +341,6 @@
     {
       "src": "music/shmorez/Golden Silence End.mp3",
       "title": "Shmorez — Golden Silence End"
-    },
-    {
-      "src": "music/shmorez/Google how to cry 2026.mp3",
-      "title": "Shmorez — Google how to cry 2026"
     },
     {
       "src": "music/shmorez/Helter Skelter 2026.mp3",
@@ -194,84 +359,12 @@
       "title": "Shmorez — Jump 2026"
     },
     {
-      "src": "music/shmorez/knock knock 2026.mp3",
-      "title": "Shmorez — knock knock 2026"
-    },
-    {
-      "src": "music/shmorez/knock turn em.mp3",
-      "title": "Shmorez — knock turn em"
-    },
-    {
       "src": "music/shmorez/LANDMINES TO DODGE.mp3",
       "title": "Shmorez — LANDMINES TO DODGE"
     },
     {
       "src": "music/shmorez/Melted Candy.mp3",
       "title": "Shmorez — Melted Candy"
-    },
-    {
-      "src": "music/shmorez/mine all mine.mp3",
-      "title": "Shmorez — mine all mine"
-    },
-    {
-      "src": "music/shmorez/Never gave a fuck 2026.mp3",
-      "title": "Shmorez — Never gave a fuck 2026"
-    },
-    {
-      "src": "music/shmorez/not a a drill.mp3",
-      "title": "Shmorez — not a a drill"
-    },
-    {
-      "src": "music/shmorez/now nutta.mp3",
-      "title": "Shmorez — now nutta"
-    },
-    {
-      "src": "music/shmorez/ok I see you.mp3",
-      "title": "Shmorez — ok I see you"
-    },
-    {
-      "src": "music/shmorez/pep In ya step.mp3",
-      "title": "Shmorez — pep In ya step"
-    },
-    {
-      "src": "music/shmorez/play game.mp3",
-      "title": "Shmorez — play game"
-    },
-    {
-      "src": "music/shmorez/pretty boy.mp3",
-      "title": "Shmorez — pretty boy"
-    },
-    {
-      "src": "music/shmorez/Research chemicals.mp3",
-      "title": "Shmorez — Research chemicals"
-    },
-    {
-      "src": "music/shmorez/Sampler platter.mp3",
-      "title": "Shmorez — Sampler platter"
-    },
-    {
-      "src": "music/shmorez/sellin grams cracker.mp3",
-      "title": "Shmorez — sellin grams cracker"
-    },
-    {
-      "src": "music/shmorez/Slasher chick anthem.mp3",
-      "title": "Shmorez — Slasher chick anthem"
-    },
-    {
-      "src": "music/shmorez/Some things last a long time.mp3",
-      "title": "Shmorez — Some things last a long time"
-    },
-    {
-      "src": "music/shmorez/Spider-man do you dance.mp3",
-      "title": "Shmorez — Spider man do you dance"
-    },
-    {
-      "src": "music/shmorez/stay sticky.mp3",
-      "title": "Shmorez — stay sticky"
-    },
-    {
-      "src": "music/shmorez/The Boneyard Bounce elegant but saucy.mp3",
-      "title": "Shmorez — The Boneyard Bounce elegant but saucy"
     },
     {
       "src": "music/shmorez/The Sky Stays Loud.mp3",
@@ -282,28 +375,8 @@
       "title": "Shmorez — Tlwfuite 1"
     },
     {
-      "src": "music/shmorez/too bad.mp3",
-      "title": "Shmorez — too bad"
-    },
-    {
       "src": "music/shmorez/Turkey Time.mp3",
       "title": "Shmorez — Turkey Time"
-    },
-    {
-      "src": "music/shmorez/type beat.mp3",
-      "title": "Shmorez — type beat"
-    },
-    {
-      "src": "music/shmorez/um what.mp3",
-      "title": "Shmorez — um what"
-    },
-    {
-      "src": "music/shmorez/wasted.mp3",
-      "title": "Shmorez — wasted"
-    },
-    {
-      "src": "music/shmorez/way too far.mp3",
-      "title": "Shmorez — way too far"
     },
     {
       "src": "music/shmorez/When Your Connection Goes.mp3",
