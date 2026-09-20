@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "src": "music/slushwave-2025-trailer.mp3",
+      "title": "SLUSHWAVE 2025 (trailer)"
+    },
+    {
+      "src": "music/first-ever-vaporwave.mp3",
+      "title": "first ever vaporwave song"
+    },
+    {
+      "src": "music/mindspring-tranquility.mp3",
+      "title": "MindSpring Memories — Tranquility Wave"
+    },
+    {
+      "src": "music/desert-sand.mp3",
+      "title": "desert sand feels warm at night"
+    },
+    {
+      "src": "music/telepath.mp3",
+      "title": "t e l e p a t h"
+    },
+    {
+      "src": "music/telepath-2.mp3",
+      "title": "t e l e p a t h II"
+    },
+    {
+      "src": "music/illusionary.mp3",
+      "title": "Illusionary"
+    },
+    {
+      "src": "music/illusionary-dub.mp3",
+      "title": "Illusionary (dub)"
+    },
+    {
+      "src": "music/second-sight-at-dawn.mp3",
+      "title": "Second Sight — At Dawn"
+    },
+    {
+      "src": "music/saturn-1985.mp3",
+      "title": "Saturn 1985 — In the Air Tonight"
+    },
+    {
+      "src": "music/soarer.mp3",
+      "title": "S O A R E R"
+    },
+    {
+      "src": "music/channel71-shine.mp3",
+      "title": "channel 71 — Shine"
+    },
+    {
+      "src": "music/channel71-sentiment-dub.mp3",
+      "title": "channel 71 — sentiment (dub)"
+    },
+    {
+      "src": "music/neckbomb-emerald.mp3",
+      "title": "neckbomb — Emerald"
+    },
+    {
+      "src": "music/neckbomb-emerald-2.mp3",
+      "title": "neckbomb — Emerald II"
+    },
+    {
+      "src": "music/kanata.mp3",
+      "title": "彼方 (kanata)"
+    },
+    {
+      "src": "music/tanky/cowboys-dont-cry.mp3",
+      "title": "Tanky Johnson — Cowboys Don’t Cry"
+    },
+    {
+      "src": "music/tanky/whiskey-revival.mp3",
+      "title": "Tanky Johnson — Whiskey Revival"
+    },
+    {
+      "src": "music/tanky/amphetamines-and-barroom-dreams.mp3",
+      "title": "Tanky Johnson — Amphetamines and Barroom Dreams"
+    },
+    {
+      "src": "music/tanky/one-for-the-team.mp3",
+      "title": "Tanky Johnson — One for the Team"
+    },
+    {
+      "src": "music/tanky/bottled-up-regrets.mp3",
+      "title": "Tanky Johnson — Bottled Up Regrets"
+    },
+    {
+      "src": "music/shmorez/snap-on-the-beat.mp3",
+      "title": "Shmorez — Snap on the Beat"
+    },
+    {
+      "src": "music/shmorez/the-baby-panda.mp3",
+      "title": "Shmorez — The Baby Panda"
+    },
+    {
+      "src": "music/shmorez/shhh-dont-wake-her-up.mp3",
+      "title": "Shmorez — Shhh, Don’t Wake Her Up"
+    },
+    {
+      "src": "music/driftwave/still-buffering.wav",
+      "title": "DriftWave Static — Still Buffering"
+    },
+    {
+      "src": "music/static-drift-anthem.mp3",
+      "title": "Static Drift Anthem"
+    }
+  ],
+  "covers": [
+    "music/art/cover-92.jpg",
+    "music/art/cover-cube.jpg",
+    "music/art/cover-main.jpg",
+    "music/art/cover-slushwave.jpg",
+    "music/art/logo-neon.jpg",
+    "music/art/logo-tv.jpg",
+    "music/art/logo-waves.jpg"
+  ]
+}
