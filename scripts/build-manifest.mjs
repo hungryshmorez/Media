@@ -25,6 +25,7 @@ const ARTISTS = {
   'music/tanky': 'Tanky Johnson',
   'music/shmorez': 'Shmorez',
   'music/driftwave': 'DriftWave Static',
+  'music/sofa-king': 'Sofa King Sad Boi',
 };
 
 // album folder → display name. Anything not listed falls back to the folder
@@ -40,10 +41,11 @@ const ALBUMS = {
   'music/driftwave/booting-dreamOS-bardo-factory-reset': 'Booting.dreamOS bardo // factory_reset',
   'music/driftwave/midnight-vapor-circuit': 'Midnight Vapor Circuit',
   'music/driftwave/slushwave-type-beat-tape': 'Slushwave Type Beat Tape',
+  'music/sofa-king/godz-city-jampack-underground': 'Godz City -= Jampack UnderGround',
 };
 
 // play order: these artist folders in this order, root tracks first
-const ORDER = ['music', 'music/tanky', 'music/shmorez', 'music/driftwave'];
+const ORDER = ['music', 'music/tanky', 'music/shmorez', 'music/driftwave', 'music/sofa-king'];
 
 function walk(dir) {
   const out = [];
